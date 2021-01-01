@@ -1,10 +1,10 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "About"
+title: "About Me"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
-summary: "About this blog"
+summary: "Eleanor's Background"
 active: about
 ---
 

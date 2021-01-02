@@ -1,10 +1,10 @@
 ---
-bg: "owl.jpg"
+bg: "ellie_test.jpg"
 layout: page
 title: "About Me"
 crawlertitle: "Eleanor's Career Background"
 permalink: /about/
-summary: "Eleanor's Background"
+summary: "Eleanor's Career Background"
 active: about
 ---
 

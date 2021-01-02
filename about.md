@@ -1,5 +1,5 @@
 ---
-bg: "ellie_test.jpg"
+bg: "ellie_casas.png"
 layout: page
 title: "About Me"
 crawlertitle: "Eleanor's Career Background"

@@ -1,10 +1,10 @@
 ---
-bg: "ellie_casas.png"
+bg: "ellie_casas2.png"
 layout: page
 title: "About Me"
 crawlertitle: "Eleanor's Career Background"
 permalink: /about/
-summary: "Eleanor's Career Background"
+summary: "Eleanor G. Casas"
 active: about
 ---
 

@@ -1,5 +1,5 @@
 ---
-bg: "tag.jpg"
+bg: "ellieweblogo.svg"
 layout: page
 permalink: /posts/
 title: "Archive"
